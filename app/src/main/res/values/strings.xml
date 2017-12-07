@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AppsManager</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_folder_1">New folder</string>
+
+    <string-array name="filenames_array">
+        <item>Name + Version</item>
+        <item>Source + Version</item>
+        <item>Source</item>
+        <item>Name</item>
+    </string-array>
+
+    <string name="org_name">Codebusters</string>
+    <string name="extracting">Extracting...</string>
+    <string name="sort_by_name">Name</string>
+    <string name="sort_by_size">Size</string>
+    <string name="sort_by_installation_date">Installation date</string>
+    <string name="sort_by_update_date">Update date</string>
+    <string name="folder_is_empty">Folder is empty</string>
+    <string name="user_app">My applications</string>
+    <string name="system_app">System applications</string>
+    <string name="extracted_apk">Extracted apk files</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="extract">Extract</string>
+    <string name="share">Share</string>
+    <string name="info">App info</string>
+    <string name="sort_apps_by">Sort applications by:</string>
+    <string name="delete_all">Delete all</string>
+    <string name="about">About</string>
+    <string name="installed_date">Installed date:</string>
+    <string name="updated_date">Updated date:</string>
+    <string name="share_with">Share with:</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="axtracted_apps">Extracted apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
